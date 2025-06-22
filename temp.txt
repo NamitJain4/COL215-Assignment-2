@@ -1,0 +1,6 @@
+Number of Gates: 50
+Number of Pins: 94
+Number of Wires: 47
+Number of Gates: 50
+Number of Pins: 94
+Wire Length: 1258
