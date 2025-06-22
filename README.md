@@ -18,7 +18,7 @@ The project includes a Makefile with the following commands:
 - `make generate`: Compiles and runs the test case generator to create a random input
 - `make run`: Runs the gate placement optimization algorithm on the input
 - `make visualize`: Generates a visualization of the final placement
-- `make all`: Runs all the above commands in sequence
+- `make`: Runs all the above commands in sequence
 
 ## Quick Start
 
@@ -33,7 +33,7 @@ make run
 make visualize
 
 # Or run the complete pipeline
-make all
+make
 ```
 
 ## Environment Setup
