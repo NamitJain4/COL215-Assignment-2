@@ -35,13 +35,3 @@ make visualize
 # Or run the complete pipeline
 make
 ```
-
-## Environment Setup
-
-If you encounter issues with Python dependencies (e.g., numpy), set up a virtual environment:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install numpy
-```
